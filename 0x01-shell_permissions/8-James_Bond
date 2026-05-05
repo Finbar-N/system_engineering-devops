@@ -1,3 +1,2 @@
 #!/bin/bash
-# This script sets permissions: owner/group none, others all
 chmod 007 hello
